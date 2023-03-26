@@ -9,48 +9,48 @@
 
 <url>
   <loc>https://kirkeland.com/</loc>
-  <lastmod>2023-03-20T21:38:13+00:00</lastmod>
   <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kirkeland.com/en/index.html</loc>
-  <lastmod>2023-03-20T21:38:12+00:00</lastmod>
+  <loc>https://kirkeland.com/en/index</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kirkeland.com/en/service</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://kirkeland.com/en/team</loc>
+  <priority>0.4</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://kirkeland.com/en/contact</loc>
+  <priority>0.8</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://kirkeland.com/no/team</loc>
+  <priority>0.4</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://kirkeland.com/no/index</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kirkeland.com/no/service</loc>
   <priority>0.80</priority>
+  <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://kirkeland.com/en/service.html</loc>
-  <lastmod>2023-03-20T21:38:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kirkeland.com/en/team.html</loc>
-  <lastmod>2023-03-20T21:38:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kirkeland.com/en/contact.html</loc>
-  <lastmod>2023-03-20T21:38:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kirkeland.com/no/team.html</loc>
-  <lastmod>2023-03-20T21:38:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kirkeland.com/no/index.html</loc>
-  <lastmod>2023-03-20T21:38:13+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kirkeland.com/no/service.html</loc>
-  <lastmod>2023-03-20T21:38:13+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kirkeland.com/no/contact.html</loc>
-  <lastmod>2023-03-20T21:38:13+00:00</lastmod>
-  <priority>0.51</priority>
+  <loc>https://kirkeland.com/no/contact</loc>
+  <priority>0.80</priority>
+  <changefreq>monthly</changefreq>
 </url>
 
 
