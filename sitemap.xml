@@ -13,7 +13,7 @@
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://kirkeland.com/en/loc>
+  <loc>https://kirkeland.com/en</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
@@ -38,7 +38,7 @@
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>https://kirkeland.com/no/loc>
+  <loc>https://kirkeland.com/no</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
